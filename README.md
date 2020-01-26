@@ -1,3 +1,3 @@
 # C
-Ejemplo de func de un compilador de c, recibe una expresion aritmetica, realiza un analisis, lexico, sintactico y semantico.
-Si la expresion es correcta devuelve el valor de dicha expresion, simula tambien el uso de memoria de las variables.
+Ejemplo del funcionamiento de un compilador de c, recibe una expresion aritmética, realiza un análisis, léxico, sintáctico y semántico.
+Si la expresión es correcta devuelve el valor de dicha expresión, simula tambien el uso de memoria de las variables usadas.
